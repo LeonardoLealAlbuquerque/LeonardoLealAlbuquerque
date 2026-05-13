@@ -1,7 +1,7 @@
 ## Olá 👋, tudo bem? Meu nome é Leonardo
 <h3 align="center">Sou formado em Informática para Internet pela Etec São Mateus, com três anos de estudos, e formado em Desenvolvimento de Software Multiplataforma pela Faculdade de Tecnologia da Zona Leste.</h3>
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoLealAlbuquerque&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,angular,mongodb,ts,docker)](https://skillicons.dev)
 <h3 align="left">Linguagens:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,nodejs,mysql,mongodb,typescript,cs,spring,bootstrap,nestjs,nextJs"/>
 <hr>
