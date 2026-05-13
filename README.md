@@ -1,10 +1,7 @@
 ## Olá 👋, tudo bem? Meu nome é Leonardo
 <h3 align="center">Sou formado em Informática para Internet pela Etec São Mateus, com três anos de estudos, e formado em Desenvolvimento de Software Multiplataforma pela Faculdade de Tecnologia da Zona Leste.</h3>
 <div align="center">
-<img 
-  width="70%" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLealAlbuquerque&layout=compact&theme=radical&cache_seconds=86400" 
-/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLealAlbuquerque&layout=compact&theme=radical&cache_seconds=86400)
 <h3 align="left">Linguagens:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,nodejs,mysql,mongodb,typescript,cs,spring,bootstrap,nestjs,nextJs"/>
 <hr>
