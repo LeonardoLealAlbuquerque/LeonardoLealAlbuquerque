@@ -9,7 +9,7 @@
 <hr>
 <h3 align="left">Portfolio:</h3>
 <p align="left">
-<a href="h[https://personal-portfolio-sooty-five-70.vercel.app/]" target="blank">
+<a href="https://personal-portfolio-sooty-five-70.vercel.app/" target="blank">
 https://personal-portfolio-sooty-five-70.vercel.app/
 </a>
 <hr>
